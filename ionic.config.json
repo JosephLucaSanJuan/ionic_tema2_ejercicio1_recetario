@@ -1,0 +1,7 @@
+{
+  "name": "ionic_tema2_ejercicio1_recetario",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
